@@ -168,7 +168,9 @@ gem 'jekyll-docs', '3.8.5'
 # jekyll serve --watch --baseurl "" --port 4001 -o
 #
 # The default theme for new Jekyll sites is 'jekyll-theme-minimal 0.1.1'.
-# Note. You may change the theme to anything you like via the config dot yaml page located in the `docs` folder of your new repo
+#
+# Note. You may change the theme to anything you like via the config dot yaml page located in the `docs` folder of your new repo.
+#
 # If you do decide to manage the theme of your repo from the config dot yaml page, then comment out both the default and your selected themes here, as follows:
 #
 # gem 'jekyll-theme-minimal', 0.1.0'
@@ -184,7 +186,7 @@ gem 'github-pages-health-check', '1.16.1'
 #
 gem 'github-pages', '201'
 #
-# Note. The ''github-markdown' dependency is no longer designated at the online GitHub Pages dependency chart
+# Note. The `github-markdown` dependency is no longer designated at the online GitHub Pages dependency chart
 # C=> https://pages.github.com/versions/
 # gem 'github-markdown'
 #
@@ -226,7 +228,7 @@ gem 'jekyll-sitemap', '1.2.0'
 #
 gem 'jekyll-swiss', '0.4.0'
 #
-# gem 'jekyll-theme-cayman', '0.1.1'
+gem 'jekyll-theme-cayman', '0.1.1'
 #
 gem 'jekyll-titles-from-headings', '0.5.1'
 #
@@ -258,4 +260,4 @@ gem 'rubyzip', '2.0.0'
 #
 # Note. Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-#
+# 
