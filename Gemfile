@@ -2,7 +2,7 @@ source "https://rubygems.org"
 # ill-formed => gem 'source', 'https://rubygems.org'
 # ruby "2.5.3"
 ruby "2.6.5"
-# Gemfile ver 110719
+# Gemfile ver 111519
 # ill-formed => gem 'ruby', '2.4.2'
 # Could not find gem 'ruby (= 2.4.2)'
 # In any of the gem sources listed in your Gemfile
@@ -228,6 +228,7 @@ gem 'jekyll-sitemap', '1.2.0'
 #
 gem 'jekyll-swiss', '0.4.0'
 #
+# Uncomment for satellite repos
 gem 'jekyll-theme-cayman', '0.1.1'
 #
 gem 'jekyll-titles-from-headings', '0.5.1'
