@@ -22,6 +22,6 @@ To view a list of aggregate external links for this project, visit the [Home Pag
 
 In the sub-menu of the `Zazzle-Hempaz` section you will find a hyperlink to the source links for this project, as follows:
 
-- [Zazzle-Hempaz Source Links](../Zazzle-Hempaz/Zazzle-Hempaz-Source-Links.htm){:title="Click to Visit the Zazzle-Hempaz Source Links page of the Zazzle-Hempaz Lessons Project at the Concept Library"}{:target="_self"}
+- [Zazzle-Hempaz Source Links](https://mminail.github.io/Zazzle-Hempaz/Zazzle-Hempaz-Source-Links.htm){:title="Click to Visit the Zazzle-Hempaz Source Links page of the Zazzle-Hempaz Lessons Project at the Concept Library"}{:target="_blank"}
 
 {% include patreon-link.md %}
