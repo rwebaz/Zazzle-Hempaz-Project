@@ -20,6 +20,7 @@ encoding: UTF-8
 title: "Zazzle Hempaz Project"
 tagline: "A GitHub repo of Lessons and Articles that emphasize the Zazzle development engine"
 description: "The Zazzle Hempaz Project, or ZHP is a GitHub repo of Lessons and Articles emphasizing the Zazzle development engine."
+#
 twitter:
     username: "mminail"
 author:
