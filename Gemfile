@@ -1,18 +1,18 @@
 #
 # Gemfile ver 111819 Satellite Repo
-#
+# 
 # frozen_string_literal: true
 #
 source "https://rubygems.org"
 #
 ruby "2.6.5"
-#
+# 
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
-#
+# 
 # gem "rails"
 #
 # Hello!
-#
+# 
 # This is where you manage which version of the 'Jekyll server' is used to run your GitHub Pages repo.
 #
 # The 'Gemfile' (no extension suffix) sits in the root directory of your repo.
