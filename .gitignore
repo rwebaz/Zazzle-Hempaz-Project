@@ -14,7 +14,7 @@
 *.user
 *.userosscache
 *.sln.docstates
-#
+# 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 *.metadata
@@ -32,7 +32,7 @@ bld/
 [Ll]og/
 packages/
 TestResults/
-#
+# 
 # DNX
 #
 # Visual Studio 2015/2017 cache/options directory
@@ -469,4 +469,4 @@ testem.log
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-#
+# 

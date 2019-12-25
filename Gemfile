@@ -2,7 +2,7 @@
 # Gemfile ver 111819 Satellite Repo
 # 
 # frozen_string_literal: true
-#
+# 
 source "https://rubygems.org"
 #
 ruby "2.6.5"
